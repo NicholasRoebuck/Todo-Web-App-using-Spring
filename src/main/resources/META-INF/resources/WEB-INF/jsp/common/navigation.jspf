@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light mb-3 p-1">
-    <a href="https://courses.in28minutes.com" class="navbar-brand m-1">in28minutes</a>
+    <a href="https://github.com/NicholasRoebuck/Todo-Web-App-using-Spring.git" class="navbar-brand m-1">Github Project</a>
     <div class="collapse navbar-collapse">
         <ul class="navbar-nav">
             <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
